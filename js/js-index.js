@@ -492,7 +492,7 @@ function Game() {
   }
   
   function handleCorrectGuess() {
-    message.show(`Amazing! We're fine-dining at Momofuku Ko in January 🎅🏻🍣🎉`, true)
+    message.show(`Amazing! Save the date for Sunday, Jan 15, 8:15pm at Momofuku Ko, one of NYC's finest Japanese restaurants 🎅🏻🍣🎉`, true)
   }
   
   function startGame() {
