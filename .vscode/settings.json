@@ -1,0 +1,22 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.autoIndent": "advanced",
+  "liveSassCompile.settings.generateMap": false,
+  "diffEditor.wordWrap": "on",
+  "es6-css-minify.minifyOnSave": "yes",
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.autoprefix": false,
+  "liveSassCompile.settings.excludeList": ["**/node_modules/**", ".vscode/**"],
+  "liveServer.settings.port": 5501
+}
